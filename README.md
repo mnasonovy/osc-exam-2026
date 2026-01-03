@@ -9,8 +9,8 @@
 | 📊 Ресурс | Описание | Ссылка |
 |-----------|---------|--------|
 | **Результаты лаб** | Таблица с результатами сдачи лабораторных работ | [📈 Открыть таблицу](https://drive.google.com/drive/folders/1nzVN9xzJI7OZIMEKrNmPywU9-yZYoG43) |
-| **Google Drive** | Основная папка со всеми материалами| [🗂️ Открыть диск](https://drive.google.com/drive/folders/1td-iB_UoqwlQw8fXQX5hgw-yqlw1JGyz) |
-| **Вопросы к экзамену** | Полный список из 42 вопросов (также в папке `questions`) | [📋 Открыть вопросы](https://drive.google.com/drive/folders/1td-iB_UoqwlQw8fXQX5hgw-yqlw1JGyz/questions) |
+| **Google Drive** | Основная папка со всеми материалами, конспектами и ответами | [🗂️ Открыть диск](https://drive.google.com/drive/folders/1td-iB_UoqwlQw8fXQX5hgw-yqlw1JGyz) |
+| **GitHub Репозиторий** | Исходный код и документация | [💻 Открыть репо](https://github.com/mnasonovy/osc-exam-2026) |
 
 ---
 
@@ -32,7 +32,7 @@
 
 **Вопросы:** 1–3
 
-- [Тема 1. Физическая безопасность сервера](https://drive.google.com/drive/folders/1td-iB_UoqwlQw8fXQX5hgw-yqlw1JGyz/lectures)
+- [Тема 1. Физическая безопасность сервера](https://github.com/mnasonovy/osc-exam-2026/tree/main/lectures)
 
 ---
 
@@ -40,8 +40,8 @@
 
 **Вопросы:** 4–14
 
-- [Тема 2. Механизмы безопасности и управления УЗ](https://drive.google.com/drive/folders/1td-iB_UoqwlQw8fXQX5hgw-yqlw1JGyz/lectures)
-- [Lab1. Управление пользователями и PAM](https://drive.google.com/drive/folders/1td-iB_UoqwlQw8fXQX5hgw-yqlw1JGyz/labs)
+- [Тема 2. Механизмы безопасности и управления УЗ](https://github.com/mnasonovy/osc-exam-2026/tree/main/lectures)
+- [Lab1. Управление пользователями и PAM](https://github.com/mnasonovy/osc-exam-2026/tree/main/labs)
 
 ---
 
@@ -49,7 +49,7 @@
 
 **Вопросы:** 15–20
 
-- [Тема 3. Механизмы разграничения доступа](https://drive.google.com/drive/folders/1td-iB_UoqwlQw8fXQX5hgw-yqlw1JGyz/lectures)
+- [Тема 3. Механизмы разграничения доступа](https://github.com/mnasonovy/osc-exam-2026/tree/main/lectures)
 
 ---
 
@@ -57,8 +57,8 @@
 
 **Вопросы:** 21–32
 
-- [Тема 4. Разграничение ресурсов ОС Linux](https://drive.google.com/drive/folders/1td-iB_UoqwlQw8fXQX5hgw-yqlw1JGyz/lectures)
-- [Тема 5. Изоляция процессов ОС Linux](https://drive.google.com/drive/folders/1td-iB_UoqwlQw8fXQX5hgw-yqlw1JGyz/lectures)
+- [Тема 4. Разграничение ресурсов ОС Linux](https://github.com/mnasonovy/osc-exam-2026/tree/main/lectures)
+- [Тема 5. Изоляция процессов ОС Linux](https://github.com/mnasonovy/osc-exam-2026/tree/main/lectures)
 
 ---
 
@@ -66,9 +66,19 @@
 
 **Вопросы:** 33–42
 
-- [Lab2. Основы эксплуатации](https://drive.google.com/drive/folders/1td-iB_UoqwlQw8fXQX5hgw-yqlw1JGyz/labs)
-- [Lab3. Stack overflow и защитные механизмы](https://drive.google.com/drive/folders/1td-iB_UoqwlQw8fXQX5hgw-yqlw1JGyz/labs)
-- [Lab4. ROP цепочки](https://drive.google.com/drive/folders/1td-iB_UoqwlQw8fXQX5hgw-yqlw1JGyz/labs)
+- [Lab2. Основы эксплуатации](https://github.com/mnasonovy/osc-exam-2026/tree/main/labs)
+- [Lab3. Stack overflow и защитные механизмы](https://github.com/mnasonovy/osc-exam-2026/tree/main/labs)
+- [Lab4. ROP цепочки](https://github.com/mnasonovy/osc-exam-2026/tree/main/labs)
+
+---
+
+## 📄 Документы и конспекты
+
+| Документ | Описание | Ссылка |
+|----------|---------|--------|
+| **Вопросы к экзамену** | Полный список всех 42 вопросов | [📋 Вопросы.pdf](https://github.com/mnasonovy/osc-exam-2026/tree/main/questions) |
+| **Вопросы с ссылками** | Вопросы с указанием источников | [📋 Вопросы_ссылки.pdf](https://github.com/mnasonovy/osc-exam-2026/tree/main/questions) |
+| **Структура подготовки** | Организационный план | [📊 report.md](https://github.com/mnasonovy/osc-exam-2026/blob/main/report.md) |
 
 ---
 
