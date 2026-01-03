@@ -9,7 +9,7 @@
 | 📊 Ресурс | Описание | Ссылка |
 |-----------|---------|--------|
 | **Результаты лаб** | Таблица с результатами сдачи лабораторных работ | [📈 Открыть таблицу](https://drive.google.com/drive/folders/1nzVN9xzJI7OZIMEKrNmPywU9-yZYoG43) |
-| **Google Drive** | Основная папка со всеми материалами, конспектами и ответами | [🗂️ Открыть диск](https://drive.google.com/drive/folders/1td-iB_UoqwlQw8fXQX5hgw-yqlw1JGyz) |
+| **Google Drive** | Основная папка со всеми материалами  | [🗂️ Открыть диск](https://drive.google.com/drive/folders/1td-iB_UoqwlQw8fXQX5hgw-yqlw1JGyz) |
 
 ---
 
@@ -31,7 +31,7 @@
 
 **Вопросы:** 1–3
 
-- [📖 Тема 1. Физическая безопасность сервера](https://github.com/mnasonovy/osc-exam-2026/raw/main/lectures/%5B%D0%91%D0%B5%D0%B7%D0%9E%D0%A1%5D%20%D0%A2%D0%B5%D0%BC%D0%B0%201.%20%D0%A4%D0%B8%D0%B7%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20%D0%9E%D0%A1%20Linux.pdf)
+- [📖 Тема 1. Физическая безопасность сервера](https://github.com/mnasonovy/osc-exam-2026/blob/main/lectures/%5B%D0%91%D0%B5%D0%B7%D0%9E%D0%A1%5D%20%D0%A2%D0%B5%D0%BC%D0%B0%201.%20%D0%A4%D0%B8%D0%B7%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20%D0%9E%D0%A1%20Linux.pdf)
 
 ---
 
@@ -39,8 +39,8 @@
 
 **Вопросы:** 4–14
 
-- [📖 Тема 2. Механизмы безопасности и управления УЗ](https://github.com/mnasonovy/osc-exam-2026/raw/main/lectures/%5B%D0%91%D0%B5%D0%B7%D0%9E%D0%A1%5D%20%D0%A2%D0%B5%D0%BC%D0%B0%202.%20%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC%D1%8B%20%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%20%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%A3%D0%97%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F.pdf)
-- [📚 Lab1. Управление пользователями и PAM](https://github.com/mnasonovy/osc-exam-2026/raw/main/labs/Lab1.pdf)
+- [📖 Тема 2. Механизмы безопасности и управления УЗ](https://github.com/mnasonovy/osc-exam-2026/blob/main/lectures/%5B%D0%91%D0%B5%D0%B7%D0%9E%D0%A1%5D%20%D0%A2%D0%B5%D0%BC%D0%B0%202.%20%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC%D1%8B%20%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%20%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%A3%D0%97%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F.pdf)
+- [📚 Lab1. Управление пользователями и PAM](https://github.com/mnasonovy/osc-exam-2026/blob/main/labs/Lab1.pdf)
 
 ---
 
@@ -48,7 +48,7 @@
 
 **Вопросы:** 15–20
 
-- [📖 Тема 3. Механизмы разграничения доступа](https://github.com/mnasonovy/osc-exam-2026/raw/main/lectures/%5B%D0%91%D0%B5%D0%B7%D0%9E%D0%A1%5D%20%D0%A2%D0%B5%D0%BC%D0%B0%203.%20%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC%D1%8B%20%D1%80%D0%B0%D0%B7%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0%20%D0%9E%D0%A1%20Linux.pdf)
+- [📖 Тема 3. Механизмы разграничения доступа](https://github.com/mnasonovy/osc-exam-2026/blob/main/lectures/%5B%D0%91%D0%B5%D0%B7%D0%9E%D0%A1%5D%20%D0%A2%D0%B5%D0%BC%D0%B0%203.%20%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC%D1%8B%20%D1%80%D0%B0%D0%B7%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0%20%D0%9E%D0%A1%20Linux.pdf)
 
 ---
 
@@ -56,8 +56,8 @@
 
 **Вопросы:** 21–32
 
-- [📖 Тема 4. Разграничение ресурсов ОС Linux](https://github.com/mnasonovy/osc-exam-2026/raw/main/lectures/%5B%D0%91%D0%B5%D0%B7%D0%9E%D0%A1%5D%20%D0%A2%D0%B5%D0%BC%D0%B0%204.%20%D0%A0%D0%B0%D0%B7%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D0%BE%D0%B2%20%D0%9E%D0%A1%20Linux.pdf)
-- [📖 Тема 5. Изоляция процессов ОС Linux](https://github.com/mnasonovy/osc-exam-2026/raw/main/lectures/%5B%D0%91%D0%B5%D0%B7%D0%9E%D0%A1%5D%20%D0%A2%D0%B5%D0%BC%D0%B0%205.%20%D0%98%D0%B7%D0%BE%D0%BB%D1%8F%D1%86%D0%B8%D1%8F%20%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D0%B2%20%D0%9E%D0%A1%20Linux.pdf)
+- [📖 Тема 4. Разграничение ресурсов ОС Linux](https://github.com/mnasonovy/osc-exam-2026/blob/main/lectures/%5B%D0%91%D0%B5%D0%B7%D0%9E%D0%A1%5D%20%D0%A2%D0%B5%D0%BC%D0%B0%204.%20%D0%A0%D0%B0%D0%B7%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D0%BE%D0%B2%20%D0%9E%D0%A1%20Linux.pdf)
+- [📖 Тема 5. Изоляция процессов ОС Linux](https://github.com/mnasonovy/osc-exam-2026/blob/main/lectures/%5B%D0%91%D0%B5%D0%B7%D0%9E%D0%A1%5D%20%D0%A2%D0%B5%D0%BC%D0%B0%205.%20%D0%98%D0%B7%D0%BE%D0%BB%D1%8F%D1%86%D0%B8%D1%8F%20%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D0%B2%20%D0%9E%D0%A1%20Linux.pdf)
 
 ---
 
@@ -65,9 +65,9 @@
 
 **Вопросы:** 33–42
 
-- [📚 Lab2. Основы эксплуатации](https://github.com/mnasonovy/osc-exam-2026/raw/main/labs/Lab2.pdf)
-- [📚 Lab3. Stack overflow и защитные механизмы](https://github.com/mnasonovy/osc-exam-2026/raw/main/labs/Lab3.pdf)
-- [📚 Lab4. ROP цепочки](https://github.com/mnasonovy/osc-exam-2026/raw/main/labs/Lab4.pdf)
+- [📚 Lab2. Основы эксплуатации](https://github.com/mnasonovy/osc-exam-2026/blob/main/labs/Lab2.pdf)
+- [📚 Lab3. Stack overflow и защитные механизмы](https://github.com/mnasonovy/osc-exam-2026/blob/main/labs/Lab3.pdf)
+- [📚 Lab4. ROP цепочки](https://github.com/mnasonovy/osc-exam-2026/blob/main/labs/Lab4.pdf)
 
 ---
 
@@ -75,8 +75,8 @@
 
 | Документ | Описание | Ссылка |
 |----------|---------|--------|
-| **Вопросы к экзамену** | Полный список всех 42 вопросов | [📋 Вопросы.pdf](https://github.com/mnasonovy/osc-exam-2026/raw/main/questions/Вопросы.pdf) |
-| **Вопросы с ссылками** | Вопросы с указанием источников | [📋 Вопросы_ссылки.pdf](https://github.com/mnasonovy/osc-exam-2026/raw/main/questions/Вопросы_ссылки.pdf) |
+| **Вопросы к экзамену** | Полный список всех 42 вопросов | [📋 Вопросы.pdf](https://github.com/mnasonovy/osc-exam-2026/blob/main/questions/Вопросы.pdf) |
+| **Вопросы с ссылками** | Вопросы с указанием источников | [📋 Вопросы_ссылки.pdf](https://github.com/mnasonovy/osc-exam-2026/blob/main/questions/Вопросы_ссылки.pdf) |
 
 ---
 
